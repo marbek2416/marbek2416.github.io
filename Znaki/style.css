@@ -1,0 +1,45 @@
+
+body{
+	
+	background-color:navy;
+
+}
+
+.koło{
+	
+	width:200px;
+	height:200px;
+	border-radius: 50%;
+	background-color: white;
+	border: 20px solid red;
+	position: relative;
+	left: 100px;
+	top: 100px;
+}
+
+.kwadrat{
+	
+	width: 100px;
+	height: 50px;
+	border-style: solid;
+	border-color: white;
+	background-color: red;
+	position: absolute;
+	right:400px;
+	top: 200px;
+}
+
+.kwadrat > h2 {
+	
+	position: relative;
+	left: 33px;
+	bottom: 8px;
+	color: white;
+}
+
+h1{
+	
+	position: absolute;
+	left: 550px;
+	color: white;
+}
