@@ -1,0 +1,40 @@
+h2 > a{
+    background-color: #007b80;
+    border: dotted;
+	border-color:#720e2b;
+	border-radius: 10px;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	font-size: 20px;
+}
+
+a{
+	
+	position:relative;
+	left:20cm;
+	top: 3.5cm;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	
+}
+
+
+h1{
+	
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-size: 50px;
+	color: #482060;
+	text-align:center;
+	
+}
+
+body{
+	
+	background: linear-gradient(to bottom, #008000, #2d7121, #3c6232, #44533f, #49444b, #4a3356, #482060)
+	
+}
