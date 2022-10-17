@@ -1,7 +1,6 @@
-h2 > a{
-    background-color: #007b80;
-    border: dotted;
-	border-color:#720e2b;
+.button{
+    background: linear-gradient(to right bottom,#720e2b,#605053,#720e2b);
+    border: none;
 	border-radius: 10px;
     color: black;
     padding: 15px 32px;
@@ -12,6 +11,12 @@ h2 > a{
     margin: 4px 2px;
     cursor: pointer;
 	font-size: 20px;
+	box-shadow: 0 0 20px 10px #6f2b38;
+}
+
+.button:hover{
+	
+	background:#605053;
 }
 
 a{
@@ -35,6 +40,6 @@ h1{
 
 body{
 	
-	background: linear-gradient(to bottom, #008000, #2d7121, #3c6232, #44533f, #49444b, #4a3356, #482060)
+	background: linear-gradient(to bottom, #008000, #2d7121, #3c6232, #44533f, #49444b, #4a3356, #482060);
 	
 }
