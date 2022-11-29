@@ -1,0 +1,75 @@
+body{
+	
+	margin:auto;
+	
+}
+
+.naglowek{
+	
+	background-color:#0c7554;
+	text-align:center;
+	height: 100px;
+	line-height:90px;
+	font-family: Lucida Sans Unicode;
+}
+
+.tabela{
+	
+	width:33%;
+	height:400px;
+	float: left;
+	background-color:#c8f6f7;
+
+	
+}
+
+table,tr,th{
+	
+	border: 2px solid;
+	margin: auto;
+	margin-top:35%;
+	cursor: crosshair;
+	background-color:#00a365;
+}
+
+.choinka{
+	
+	width:34%;
+	height:400px;
+	float: left;
+	background-color:#91ceff;
+}
+
+.definicja{
+	
+	width:33%;
+	height:400px;
+	float: left;
+	background-color:#c8f6f7;
+	
+}
+
+.definicja > p{
+	
+	border: 2px solid brown;
+	background-color:#d0cc2a;
+	width:300px;
+	margin: auto;
+	margin-top:35%;
+	cursor: help;
+}
+
+.stopka{
+	
+	text-align: right;
+	background-color:#0c7554;
+	height:40px;
+	width:100%;
+	float: left;
+}
+
+img{
+	
+	cursor: pointer;
+	margin: auto;
+}
