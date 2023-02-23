@@ -1,0 +1,161 @@
+body{
+	
+	background-color: maroon;
+	
+}
+.kw1{
+	
+	background-color: red;
+	height: 100px;
+	width: 100px;
+	
+	margin-left:20px;
+	float:left;
+}
+.kw2{
+	
+	background-color: black;
+	height: 100px;
+	width: 100px;
+	position: relative;
+	left:120px;
+	
+}
+.kw3{
+	
+	background-color: black;
+	height: 100px;
+	width: 100px;
+	position: relative;
+	left:20px;
+
+}
+.kw4{
+	
+	background-color: red;
+	height: 100px;
+	width: 100px;
+	position: relative;
+	left:120px;
+	top: -100px;
+	float:left;
+}
+.kw5{
+	
+	background-color: yellow;
+	height: 100px;
+	width: 100px;
+	position: relative;
+	left: 20px;
+	top: 20px;
+	
+}
+.kw6{
+	
+	background-color: red;
+	height: 100px;
+	width: 100px;
+	position: relative;
+	left: 120px;
+	top: 20px;
+	float: left;
+}
+.kw7{
+	
+	background-color: blue;
+	height: 100px;
+	width: 100px;
+	position: relative;
+	left: 120px;
+	top: -80px;
+	float: left;
+	
+}
+.kw8{
+	
+	background-color: purple;
+	height: 100px;
+	width: 100px;
+	position: relative;
+	left: -180px;
+	top: 120px;
+	float: left;
+	
+}
+.kw9{
+	
+	background-color: green;
+	height: 100px;
+	width: 100px;
+	position: relative;
+	left: -80px;
+	top: 120px;
+	float: left;
+	
+}
+h4{
+	
+	margin-left: 80px;
+	margin-top: 20px;
+	
+}
+.kw10{
+	
+	height: 600px;
+	width: 900px;
+	background-color: green;
+	float: left;
+	padding-top: 50px;
+}
+.kw11{
+	
+	height: 90%;
+	width: 90%;
+	background-color: darkcyan;
+	margin: auto;
+	
+}
+.kw12{
+	
+	height:70%;
+	width:50%;
+	background-color: orange;
+	
+	
+}
+.kol{
+	
+	height: 150px;
+	width: 150px;
+	background-color:lightpink;
+	border-radius: 50%;
+	position: relative;
+	top: 400px;
+	left: 200px;
+	
+	
+}
+.kol1{
+	
+	height: 150px;
+	width: 150px;
+	background-color:lightcoral;
+	border-radius: 50%;
+	position: relative;
+	top: 200px;
+	left: 150px;
+	
+	
+}
+.kol2{
+	
+	height: 150px;
+	width: 150px;
+	background-color:MediumOrchid;
+	border-radius: 50%;
+	position: relative;
+	top: 5px;
+	left: 95px;
+	
+	
+}
