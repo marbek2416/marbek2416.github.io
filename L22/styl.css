@@ -1,0 +1,72 @@
+.as{
+
+    position: absolute;
+    left: 500px;
+    right: 100px;
+    top: 250px;
+    z-index: 1;
+
+}
+.krol{
+
+    position: absolute;
+    left: 525px;
+    right: 125px;
+    top: 275px;
+    z-index: 2;
+
+
+}
+.dama{
+
+    position: absolute;
+    left: 550px;
+    right: 150px;
+    top: 300px;
+    z-index: 3;
+
+}
+.walet{
+
+    position: absolute;
+    left: 575px;
+    right: 175px;
+    top: 325px;
+    z-index: 4;
+
+}
+.rew{
+
+    position: absolute;
+    left: 600px;
+    right: 200px;
+    top: 350px;
+    z-index: 5;
+
+}
+
+.as:hover{
+
+    z-index: 6;
+
+}
+.krol:hover{
+
+    z-index: 6;
+
+}
+.dama:hover{
+
+    z-index: 6;
+    
+}
+.walet:hover{
+
+    z-index: 6;
+
+}
+.rew:hover{
+
+    z-index: 6;
+
+}
