@@ -1,0 +1,61 @@
+h1{
+    margin: auto;
+    margin-top: 20px;
+    color: black;
+    text-align: center;
+    line-height: 100%;
+    font-size: 7vh;
+}
+
+div{
+    margin:50px;
+    height: 60vh;
+    width: 50vh;
+    text-align: center;
+    float: left;
+    position: relative;
+    top: 15vh;
+    left: 9vh;
+    border-radius: 15%;
+    border: 5px dotted;
+}
+
+img{
+    margin-bottom: 3vh;
+}
+
+header{
+    text-align: center;
+    background-color: aqua;
+    height: 4vh;
+    width: 80%;
+    line-height: 4vh;
+    margin-bottom: 1vh;
+    margin-left: 5vh
+}
+
+
+.gru{
+    
+ background-color: deepskyblue;
+
+    
+}
+
+.sty{
+    
+    background-color: rgb(20, 62, 177);
+    
+}
+
+.lut{
+    background-color: rgb(207, 89, 236);
+}
+
+table{
+    height: 25vh;
+    width: 80%;
+    color: white;
+    text-align: center;
+    margin-left: 5vh;
+}
