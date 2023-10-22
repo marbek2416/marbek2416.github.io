@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>L22</title>
+    <link rel="stylesheet" href="styl.css">
+    <script>
+        function Zi(){
+            document.getElementById("di").style.background = "green";
+        }
+        function Nb(){
+            document.getElementById("di").style.background = "blue";
+        }
+        function Cz(){
+            document.getElementById("di").style.background = "red";
+        }
+        function Zol(){
+            document.getElementById("di").style.background = "yellow";
+        }
+        function Pow(){
+            document.getElementById("di").style.background = "cyan";
+        }
+    
+    </script>
+</head>
+<body>
+    <article>
+        <input type="button" onclick="Zi()" value="zielony" class="zi">
+        <input type="button" onclick="Nb()" value="niebieski" class="nb">
+        <input type="button" onclick="Cz()" value="czerwony" class="cz">
+        <input type="button" onclick="Zol()" value="żółty" class="zol">
+        <div id="di"></div>
+        <input type="button" onclick="Pow()" value="Wroć do pierwotnego koloru" class="pow">
+
+    </article>
+</body>
+</html>
