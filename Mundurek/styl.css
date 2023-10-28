@@ -1,0 +1,21 @@
+header{
+    margin: auto;
+    text-align: center;
+}
+main{
+    text-align: center;
+    float: left;
+    height: 640px;
+    width: 50%;
+    margin-top: 100px;
+}
+aside{
+    text-align: center;
+    float: left;
+    height: 640px;
+    width: 50%;
+    margin-top: 100px;
+}
+img{
+    margin-top: 50px;
+}
