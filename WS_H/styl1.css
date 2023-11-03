@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    color: blanchedalmond;
+    text-align: center;
+    margin-top: 5vh;
+}
+body{
+    background-image: url('ws.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+p{
+    color: blanchedalmond;
+    margin-left: 50%;
+    margin-top: 45vh;
+    font-size: 3vh;
+}
+

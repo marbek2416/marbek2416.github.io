@@ -1,0 +1,45 @@
+header{
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+.WS{
+    background-color:indigo;
+    color:rgb(214, 162, 31);
+    font-family: 'Roboto Slab', serif;
+    font-size: 2vh;
+    box-shadow: 10px 5px 10px indigo;
+    border: none;
+}
+.H{
+    background-color: darkorange;
+    color: black;
+    font-family: 'Nosifer', sans-serif;
+    font-size: 2vh;
+    box-shadow: 10px 5px 10px darkorange;
+    border: none;
+}
+.left{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.right{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+button{
+    height: 15vh;
+    width: 20vh;
+    border-radius: 20%;
+    margin-top: 10vh;
+    font-weight: bold;
+    
+}
+body{
+    background-color: black;
+}
